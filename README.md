@@ -1,4 +1,6 @@
-# vue-project
+# Weather Search
+
+Weather app using Vue 3, Tailwind CSS & the OpenWeather API.
 
 This template should help get you started developing with Vue 3 in Vite.
 
